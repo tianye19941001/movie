@@ -1,0 +1,5 @@
+---
+applications: 
+- name: node
+  command: node app.js
+  memory: 512M

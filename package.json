@@ -1,0 +1,27 @@
+{
+  "name": "tianye",
+  "version": "0.0.0",
+  "description": "tianye movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "connect-multiparty": "^2.0.0",
+    "express": "~4.14.0",
+    "jade": "~1.11.0",
+    "moment": "~2.14.1",
+    "mongoose": "~4.5.9",
+    "morgan": "^1.7.0",
+    "pug": "~2.0.0-beta5",
+    "underscore": "~1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tianye",
+    "movie"
+  ],
+  "author": "tianye",
+  "license": "ISC"
+}
